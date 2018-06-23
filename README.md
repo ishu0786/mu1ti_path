@@ -29,3 +29,4 @@ https://markieeee.github.io/mu1ti_path/
 - @xerub - electra team/patches
 - @stek29 - electra team/patches
 - @iBSparkes - electra team/patches
+- @Markieeee - original project
